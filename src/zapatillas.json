@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "title": "Nike LD Waffle Sacai Black Nylon",
+      "price": 401,
+      "image": "https://www.highsnobiety.com/static-assets/thumbor/HkpNDLQEJO0PbKgetFnwAWWFkfo=/1600x1067/www.highsnobiety.com/static-assets/wp-content/uploads/2020/03/04110938/sacai-nike-ldwaffle-nylon-release-date-price-official-04.jpg",
+      "category": "nike",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "title": "Nike Dunk Low Off-White Pine Green",
+      "price": 304,
+      "image": "https://www.thenextsole.com/storage/images/CT0856-100.png",
+      "category": "nike",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "title": "Nike Air Force 1 Low Supreme Black",
+      "price": 475,
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/cc5dede72900450813df3f8002dc377bec9e7b7b10e5bf1b2e85e12d1f823b28106662.webp",
+      "category": "nike",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "title": "Nike LD Waffle Sacai White Nylon",
+      "price": 399,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpata8lpHQ8dFDtG_qFVeSk5u93PL_EL8KSQ&usqp=CAU",
+      "category": "nike",
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "title": "Nike Dunk Low SP Kentucky (2021)",
+      "price": 405,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfu6rLEjNcPLew8Dk3L5UPId-qb2KIyluN-w&usqp=CAU",
+      "category": "nike",
+      "cantidad": 1
+    },
+    {
+      "id": 6,
+      "title": "Nike Dunk Low Off-White University",
+      "price": 285,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbcgmrUB84SQ1klezT8Io5wkL5VSukP7zwWA&usqp=CAU",
+      "category": "nike",
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "title": "Nike Air Max 2 Light Atmos",
+      "price": 360,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrgRPex2lMt6dQ_JeunosSdpWMcHYfeL8XNWP4Km7fm8O_4jMN5l9ApkyK4EANw_c8GwA&usqp=CAU",
+      "category": "nike",
+      "cantidad": 1
+    },
+    {
+      "id": 8,
+      "title": "Nike Air Force 1 Low CLOT Blue Silk",
+      "price": 335,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi65R-LsK-93MXPLwm7R-jTHs69jGpCsevC50eLFkPaxcLO5N6MDn7tzdeDnrzeTvLU-I&usqp=CAU",
+      "category": "nike",
+      "cantidad": 1
+    },
+    {
+      "id": 9,
+      "title": "Nike Air Max 90 OG Volt (2020)",
+      "price": 799,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjm7GJRJv-8ebMp72KTK1e4iRtvBv2-8TZ2podGYCMc314cwJwWn4kmNwt6c8p1i3SvRA&usqp=CAU",
+      "category": "nike",
+      "cantidad": 1
+    },
+    {
+      "id": 10,
+      "title": "Nike Dunk High Varsity Maize",
+      "price": 501,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-62VDCxgXgx42_Vo_N2ccFp-cvN13ixqDLUklXKyFQlJP1V8xJq5stOcti71NbhhV4ts&usqp=CAU",
+      "category": "nike",
+      "cantidad": 1
+    },
+    {
+      "id": 11,
+      "title": "Nike Air Rubber Dunk Off-White UNC",
+      "price": 377,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Zg14rovMngoUH5bZ9pgzN7r5tIiZOon5Ng&usqp=CAU",
+      "category": "nike",
+      "cantidad": 1
+    }
+  ]
