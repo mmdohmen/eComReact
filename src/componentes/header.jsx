@@ -7,10 +7,11 @@ export function Header(props) {
 
     const value = useContext(DataContext)
     const [menu, setMenu] = value.menu
-    const [carrito, setCarrito] = value.carrito
+    const [carrito] = value.carrito
 
     console.log("menu = ", menu)
 
+    // funcion q muestra o no el carrito
     const tooglemenu = () => {
         setMenu(!menu)
     }

@@ -45,7 +45,7 @@ code {
   border-radius: 9px;
   background-color: white ;
   overflow: hidden;
-  overflow-x: scroll;
+  overflow-y: scroll;
   transition: all 300ms ease-in-out;
   opacity: 0;
   visibility: hidden;

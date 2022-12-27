@@ -7,10 +7,7 @@ import { DataContext } from "../context/dataprovider";
 
 export function Productos() {
     const [contador,setContador] = useState(0)
-
     console.log("contador: ", contador)
-    
-    
 
     const value = useContext(DataContext)
 
@@ -35,7 +32,7 @@ export function Productos() {
                                     <p className="price">${zapatilla.price}</p>
                                 </div>
                                 <div className="button">
-                                    <button className="btn btn-primary" onClick=""> Añadir al carrito</button>
+                                    <button className="btn btn-primary" onClick={() => addCarrito(zapatilla.id)}> Añadir al carrito</button>
                                     <a href="" className="btn btn-info">Vista</a>
                                 </div>
                             </div>
